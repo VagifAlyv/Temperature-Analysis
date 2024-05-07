@@ -1,0 +1,1 @@
+This Python function, TARGET_TEMP, calculates the start and end days of a period with the maximum sum of temperatures. It uses a sliding window algorithm with time complexity of O(n) to efficiently find the maximum sum subarray.
